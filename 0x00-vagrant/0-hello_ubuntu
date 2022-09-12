@@ -1,1 +1,2 @@
-system information
+#!/bin/bash
+echo "system information"
